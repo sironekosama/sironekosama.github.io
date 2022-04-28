@@ -1,7 +1,6 @@
-theme:
-url: "https://.github.io"
+theme: 
+url: "https://sironekosama.github.io/
 
 plugins:
  - jekyll-sitemap
 
-theme: jekyll-theme-cayman
