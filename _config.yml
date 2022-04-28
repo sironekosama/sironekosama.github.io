@@ -1,6 +1,3 @@
-theme: 
-url: "https://sironekosama.github.io/
-
 plugins:
  - jekyll-sitemap
 
