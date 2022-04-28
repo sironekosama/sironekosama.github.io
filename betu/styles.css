@@ -1,0 +1,10 @@
+section {
+  background: greenyellow;
+  text-align: center;
+  margin: 0;
+}
+
+p{
+  font-size: 32px;
+  padding-top: 12px;
+}
